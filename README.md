@@ -77,9 +77,53 @@ Requirements: [State of the art](https://github.com/AndreiIacob/SuperView/tree/m
 	- analyze dataset from tripAdvisor
 	- create an approach for generate (for group words in) strengths and weaknesses (can be found in /documents/topics_extraction) 
 
-# Week 5
-- ce urmeaza sa prezentam
-Anda 	- se uita peste abordarea celor de la netflix
+<!-- ### Week 5 -->
+<!-- Anda 	- se uita peste abordarea celor de la netflix
 Andrei 	- incearca sa extraga eticheteze cu label-uri valide acele grupuri de cuvinte create.
 Vasile 	- se uita peste sentimentAnalyzez
-Dorin 	- Fac join intre acele date si ma folosesc de api-ul lui vasile
+Dorin 	- Fac join intre acele date si ma folosesc de api-ul lui vasile -->
+
+### Week 5
+- Anda
+	- research about The Netflix Prize and search for an approach that we can use
+- Andrei
+	- try to label with valid labels those groups of created words (in other words, to extract significant digrams and trigrams)
+- Vasile
+	- research about Sentiment Analysis
+- Dorin
+	- join the data and use Vasile's api
+
+### Week 6
+- Dorin & Vasile
+	- created an instance on EC2 for MongoDB
+
+### Week 7
+- populate the database
+
+### Week 8
+- All of us
+	- Aspect Oriented Programming (AOP) and Test Driven Development (TDD) for some functions used
+
+### Week 9
+- Andrei 
+	- evaluation of the sentiment classifiers on the reviews' scores
+	- clustering based on arrays of words (word2vec and GloVe)
+	- Topic Coherence
+	- Interface through Flash and PyMongo
+- Vasile & Dorin
+	- user interface (ui), backend, processor components (modules)
+- Anda
+	- confussion matrix
+
+### Week 10
+- Andrei
+	- filtered the reviews that are not in English
+- Anda
+	- comparison between Clustering and Topic Modelling
+- Dorin & Vasile
+	- database for Python
+
+### Week 11
+- Andrei
+	- evaluation of the sentiment classifiers on bias extracted from the reviews
+	- wordcloud on the clusters

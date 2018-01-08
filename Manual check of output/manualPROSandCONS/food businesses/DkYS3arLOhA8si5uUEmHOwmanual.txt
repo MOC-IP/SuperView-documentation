@@ -1,0 +1,18 @@
+>= 4 star rating:
+        PROS: - "OPENS 24/7"
+              - ambiance ("Ambiance: 5")
+              - clean ("The restaurant was clean")
+              - food ("house sauce is out of this world", "decent selection of hot sandwiches, breakfast and lunch/dinner choices", "Sandwiches we got was delicious", "I love the sandwich sauce they have in it. The bread is crunchy and delicious.")
+              - wait ("They're really efficient", "The line goes by fairly quickly even though it may look very long")
+              - value ("Super reasonable prices for Vegas", "Best value food on money, time, and sodium", "The prices here are great")
+              - healthy ("it was fresh, flavorful, and served on a deliciously toasted bread", "Far better than subway in quality and freshness of ingredients", "it was a healthy portion with a nice light dressing", "fresh salads", "Bread was fresh with great texture")
+              - location ("spot is also in a very convenient location - central")
+              - service ("The employees are friendly and are patient", "We sat down for just a few minutes and already the buzzer went off pretty quickly")
+        CONS: - portion ("sandwiches are small", "sandwich sizes have gotten smaller and smaller")
+
+<= 2 star rating:
+        PROS: - "Prices are reasonable for a 24hr spot that's central to the strip."
+        CONS: - food ("where was the spice? Not even a hint of spice", "The tuna mixture was watery & tuna was very pasty/dry", "Not as good as everyone says.I did not like the food", "The tomato soup was mediocre")
+              - quantity ("Small size for the amount you pay for")
+              - healthy ("our group everybody had stomach ache", "sandwiches are really fat and not that tasty")
+              - service ("The receptionist hung up the phone on me when I was asking for directions", "service wasn't too great", "worker who took my order was incredibly rude")

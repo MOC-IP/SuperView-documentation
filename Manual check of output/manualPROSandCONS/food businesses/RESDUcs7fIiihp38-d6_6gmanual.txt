@@ -1,0 +1,28 @@
+>= 4 star rating:
+        PRO: - atmosphere ("The decore beautiful", "ambiance was also good", "The atmosphere s very nice", "The restaurant itself is stunning and has many different food stations")
+             - service ("My waitress was very friendly and took my drink order, refilled my drink, and cleared my plates very swiftly", "customer service was wonderful", "The servers were kind and would usually check to see if everything is okay.Outstanding [..] SERVICE!!!!", "service is good")
+             - "VIP line (basically cut in front of everyone)"
+             - healthy food ("I was surprised at the quality of the food here", "ingredients tasted so incredibly fresh", "seafood were fresh", "food were tasty")
+             - variety of food (Chinese food ("I really liked the fact that this particular buffet had chinese food"), "wide variety of food(Mexican food, Chinese food, American food, salads, fruits appetizers, sea food)","They had excellent king crab legs, sausages, macarons, and cakes")
+             - dessert ("My kids LOVED the dessert table", "Chocolate heaven for them", "My favorite was the desserts.", "Not only were the desserts delicious, but they were very artistic", "tons of desserts to choses , Icecream was smooth n cream")
+             - very clean ("each station was super clean", "very clean")
+             - drinks ("Bloody Mary oyster shooters", "Mango margaritas")
+             - top food : "awesome yummy quality!!! especially the seafood and desserts!", "beef brisket, jasmine rice pudding and the mango habanero gelato", "seafood and meat section", "duck was amazing", pizza, "Tacos freshly made by a man from mexi-cali w/freshly made tortillas", "chocolate covered strawberries"
+             - style : "luxurious"
+             - "free parking"
+        CONS: - high value ("it's so expensive!", "It's pricey", "This place is espensive")
+              - long wait ("horrible, horrible, HORRIBLE line", "The lines are excessively long (about a 2 hour wait for dinner on weekends)")
+              - dry food ("their prime rib/steak was a bit on the dry side")
+
+<= 2 star rating:
+        PRO: - service ("the service and ambience was excellent")
+             - ambiance ("the service and ambience was excellent")
+             - healthy ("desserts were pretty good and the juices were fresh squeezed")
+        CONS: - high value ("Not worth the money", "overpriced for a buffet")
+              - unhealthy ("bad quality of food, the oysters taste nothing", "A lot of dishes where very salty and overcooked", "Beef ribs super salty and dry", "The beef ribs were flavorless and lukewarm at best", "lamb chops which looked delicious in photos and in person were bland and very fatty")
+              - "very small portions"
+              - wait ("Lines are so long, we waited 1 hour then line again inside of the buffet", "Seafood- always an annoying line", "the lines are quite long for the meat and seafood sections")
+              - "The worst was their green tea gelato which had a strong mint flavor to it"
+              - cold food
+              - service ("Service-- terrible", "service was absolutely deplorable", "no one gave us napkins and silverware", "slow")
+              - atmosphere ("seats that are against the wall are very cold as the AC is funneled along the back wall, so be sure you bring a sweater or wrap", "the place is a bit crowded")

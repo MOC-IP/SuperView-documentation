@@ -1,0 +1,17 @@
+>= 4 star rating:
+        PROS: - technology ("High-tech too, with everything controlled from a bedside iPad--lights, curtains, room service, tv, music", "the tablet very handy for shutting the curtains without getting up, setting alarms, and ordering room service", "The curtains were controlled by either the tablet provided by the hotel")
+              - location ("great location", "I had a pretty good view of the vegas highway")
+              - comfort ("Room - spacious", "VERY comfortable bed and the two chairs, perfect for just taking in the view.")
+              - benefits ("tablet is a really cool feature to have! It controlled the temperature, lights and window shades", spa, "air filter system seems to work much better than the others so it doesn't smell like cigarettes", "The bed is incredible comfortable and the bathroom is huge", "plenty of nice restaurants to choose from inside hotel", "Close parking", gym, pool, "makeup remover, q tips for that eyeliner and shower caps to protect your hair included!", "restaurants and entertainment options", "casino size and variety exceeded expectations")
+              - ambiance ("hotel's design is absolutely beautiful", "love all the art inside the hotel", "clean, spacious, beautifully decorated rooms", "ambience in this hotel is very high-end very modern restaurants")
+              - service ("excellent staff and room service", "housekeeping definitely were great and didn't mind me working while they cleaned", "They were really nice and they answered all of our questions")
+        CONS: - "lack of water pressure in the shower"
+              - value ("Room service, the mini bar and anything else is expensive as hell")
+
+<= 2 star rating:
+        PROS: -
+              -
+        CONS: - wait ("long lines for check in and check out")
+              - value ("billing issues and overcharges on my credit card")
+              - service ("The service is rude and you will lose your money.")
+              - "room didn't have coffee maker, the towels had Yellow stain on it"
